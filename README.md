@@ -2,7 +2,7 @@
 
 contact-based ab initio folding program, C-QUARK
 
-The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C-QUARK
+The C-QUARK online server, standalone package, library and benchmark dataset can be found at https://zhanglab.dcmb.med.umich.edu/C-QUARK
 
            INSTALLATION AND IMPLEMENTATION OF C-QUARK SUITE
    (Copyright 2020 by Zhang Lab, University of Michigan, All rights reserved)
