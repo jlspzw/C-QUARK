@@ -11,8 +11,8 @@ The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C
 
    #######################################################
    #                                                     #
-    #  1. What is C-QUARK Suite?                           #
-    #                                                    #
+   #  1. What is C-QUARK Suite?                           #
+   #                                                    #
    #######################################################
    
    The C-QUARK Suite is a composite package of programs for C-QUARK based 
@@ -35,8 +35,8 @@ The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C
 
    #######################################################
    #                                                     #
-    #  2. How to install the C-QUARK Suite?              #
-    #                                                    #
+   #  2. How to install the C-QUARK Suite?              #
+   #                                                    #
    #######################################################
    
    a) download the C-QUARK Suite 'C-QUARK-1.0.tar.bz2' from
@@ -87,8 +87,8 @@ The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C
 
    #######################################################
    #                                                     #
-    # 3. Bug report:                                     #
-    #                                                    #
+   # 3. Bug report:                                     #
+   #                                                    #
    #######################################################
                                                   
    Please report and post bugs and suggestions at C-QUARK message board: 
