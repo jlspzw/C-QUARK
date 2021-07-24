@@ -8,7 +8,12 @@ The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C
    (Copyright 2020 by Zhang Lab, University of Michigan, All rights reserved)
                     (Version 1.0, 2020/10/10)
 
-1. What is C-QUARK Suite?
+
+   #######################################################
+   #                                                     #
+    #  1. What is C-QUARK Suite?                           #
+    #                                                    #
+   #######################################################
    
    The C-QUARK Suite is a composite package of programs for C-QUARK based 
    protein structure prediction. The Suite includes the following programs:
@@ -27,8 +32,13 @@ The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C
    l) PSSpred: A program for Protein Secondary Structure PREDiction
    m) ResQ: An algorithm to estimate B-factor and residue-level error of models
 
-2. How to install the C-QUARK Suite?
 
+   #######################################################
+   #                                                     #
+    #  2. How to install the C-QUARK Suite?              #
+    #                                                    #
+   #######################################################
+   
    a) download the C-QUARK Suite 'C-QUARK-1.0.tar.bz2' from
       http://zhanglab.dcmb.med.umich.edu/C-QUARK/download
       and unpack 'C-QUARK-1.0.tar.bz2 by
@@ -75,9 +85,12 @@ The benchmark dataset can be downloaded at https://zhanglab.dcmb.med.umich.edu/C
       $jacdb    = "$libdir/uniref90/uniref90.fasta";
       $hmsdb    = "$libdir/metaclust/metaclust.fasta";
 
-     
-3. Bug report:
-
+   #######################################################
+   #                                                     #
+    # 3. Bug report:                                     #
+    #                                                    #
+   #######################################################
+                                                  
    Please report and post bugs and suggestions at C-QUARK message board: 
    http://zhanglab.dcmb.med.umich.edu/forum
 
